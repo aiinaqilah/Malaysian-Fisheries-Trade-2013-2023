@@ -17,7 +17,7 @@ Malaysia trades fisheries products with over 160 countries but has consistently 
 
 Note: Trade deficit refers to higher import than exports, where trade surplus refers to higher export than imports.
 
-![Trade overview page](assets/images/01-trade-overview.jpg)
+![Trade overview page](assets/trade-overview.jpg)
 ---
 
 ##  Key Findings
@@ -38,9 +38,9 @@ Note: Trade deficit refers to higher import than exports, where trade surplus re
 | **Commodities** | Trade balance by commodity, value trend, volume share |
 | **Significant Themes** | Word cloud from 42 news/research sources on the sector |
 
-![Trading partners](assets/images/02-trading-partners.jpg)
-![Commodities](assets/images/03-commodities.jpg)
-![Word cloud](assets/images/04-word-cloud.jpg)
+![Trading partners](assets/trading-partners.jpg)
+![Commodities](assets/commodities.jpg)
+![Word cloud](assets/word-cloud.jpg)
 
 
 ---
