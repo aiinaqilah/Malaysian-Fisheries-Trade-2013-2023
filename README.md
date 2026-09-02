@@ -46,7 +46,7 @@ Note: Trade deficit refers to higher import than exports, where trade surplus re
 
 ---
 
-## 🗂️ Data & Methodology
+## Dataset and Methodology
 
 **Source(s):** ` Department of Fisheries Malaysia (DOF)'
 
@@ -56,14 +56,13 @@ Note: Trade deficit refers to higher import than exports, where trade surplus re
 
 ---
 
-## 🚀 View It
+## View It
 
-- **Interactively:** (https://app.powerbi.com/view?r=eyJrIjoiZjE2NjY2ZjQtZjE5NS00ZTFlLTlmODUtYTQ4NDQ1ZjE0OWZjIiwidCI6IjI4YzZkZjUyLWIzMTItNDQ0Mi1hZjU5LTIwNzI1OGJmNjRhYiIsImMiOjEwfQ%3D%3D)'
-- **As a PDF:** [`assets/ver_report.pdf`](assets/ver_report.pdf)
+- Link to PowerBI Dashboard :  (https://app.powerbi.com/view?r=eyJrIjoiZjE2NjY2ZjQtZjE5NS00ZTFlLTlmODUtYTQ4NDQ1ZjE0OWZjIiwidCI6IjI4YzZkZjUyLWIzMTItNDQ0Mi1hZjU5LTIwNzI1OGJmNjRhYiIsImMiOjEwfQ%3D%3D)'
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Power BI Desktop** — data modeling, DAX measures, visualization
 - **Power Query** and **Python** — data cleaning and transformation
